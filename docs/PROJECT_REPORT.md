@@ -13,7 +13,7 @@
 
 Today, the programs running our phones, massive computers, and web platforms were mostly not created by a single business looking for a payout. People from all over the world actually worked together to build them and then gave them away for nothing. This shared effort is the true meaning of open source.
 
-In this project, I will dive into these ideas by looking closely at Mozilla Firefox. I am studying Artificial Intelligence as a Computer Science student. I know that my future coding jobs will lean heavily on tools made by communities. Because of this, understanding how these free systems work is a mandatory skill for my career, not just a fun fact.
+In this project, I will dive into these ideas by looking closely at Mozilla Firefox. I am a studying Computer Science student. I know that my future coding jobs will lean heavily on tools made by communities. Because of this, understanding how these free systems work is a mandatory skill for my career, not just a fun fact.
 
 I picked Firefox for this assignment because its position in the tech world is highly unusual. It is a normal app that you and I use, but it fights directly against products made by giant corporations. Meanwhile, a group that does not care about making money controls it to ensure the web stays free. Over the next few sections, I am going to explain where Firefox came from. I will also break down its legal rules, talk about whether free software is ethically right, show how it fits into Linux, and compare it to closed alternatives. The end of this document also contains five shell scripts to prove my basic Linux terminal skills.
 
