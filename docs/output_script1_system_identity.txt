@@ -1,0 +1,62 @@
+[H[2J[3J
+[0;32m*********************************************[0m
+[0;32m*       SYSTEM IDENTITY REPORT              *[0m
+[0;32m*       Firefox OSS Audit Project           *[0m
+[0;32m*********************************************[0m
+
+[0;34m======================================[0m
+[0;32m  OPERATING SYSTEM INFO[0m
+[0;34m======================================[0m
+[1;33mOS Name             [0m: Msys
+[1;33mKernel Version      [0m: 3.6.5-22c95533.x86_64
+[1;33mArchitecture        [0m: x86_64
+[1;33mShell               [0m: /usr/bin/bash
+[1;33mHostname            [0m: NSHL
+
+[0;34m======================================[0m
+[0;32m  TIME AND UPTIME[0m
+[0;34m======================================[0m
+[1;33mCurrent Date        [0m: 29-03-2026
+[1;33mCurrent Time        [0m: 10:07:35
+[1;33mTimezone            [0m: IST
+
+[0;34m======================================[0m
+[0;32m  USER INFORMATION[0m
+[0;34m======================================[0m
+[1;33mCurrent User        [0m: anshu
+[1;33mUser ID             [0m: 197609
+[1;33mGroup ID            [0m: 197609
+[1;33mHome Directory      [0m: /c/Users/anshu
+
+[0;34m======================================[0m
+[0;32m  NETWORK INFORMATION[0m
+[0;34m======================================[0m
+[1;33mIP Address          [0m: Not available
+[1;33mMAC Address         [0m: Not available
+
+[0;34m======================================[0m
+[0;32m  DISK USAGE SUMMARY[0m
+[0;34m======================================[0m
+Root Partition   : 854G used of Files/Git (438G)
+[1;33mTotal Disk Space    [0m: 952G
+[1;33mUsed Space          [0m: 459G
+
+[0;34m======================================[0m
+[0;32m  MEMORY INFORMATION[0m
+[0;34m======================================[0m
+
+[0;34m======================================[0m
+[0;32m  OPERATING SYSTEM LICENSE[0m
+[0;34m======================================[0m
+Open Source License Information:[0m
+
+[1;33mThe Linux kernel is licensed under the:[0m
+[0;32mGNU General Public License v2 (GPLv2)[0m
+
+The GPLv2 ensures that the Linux kernel source code remains free
+and open for anyone to use, modify, and distribute.
+
+[0;34m----------------------------------------------[0m
+[0;32mReport generated on: Sun, Mar 29, 2026 10:07:36 AM[0m
+[0;34m----------------------------------------------[0m
+

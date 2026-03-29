@@ -1,0 +1,24 @@
+[H[2J[3J
+[0;32m*********************************************[0m
+[0;32m*     DISK AND PERMISSION AUDITOR          *[0m
+[0;32m*     Firefox OSS Audit Project            *[0m
+[0;32m*********************************************[0m
+
+[0;35m========================================[0m
+[0;32m  Disk Usage Analysis[0m
+[0;35m========================================[0m
+[1;33mFilesystem usage breakdown:[0m
+
+Filesystem           Type  Size  Used Avail Use% Mounted on
+C:/Program Files/Git ntfs  854G  417G  438G  49% /
+D:                   ntfs   98G   43G   56G  44% /d
+
+[1;33mChecking for partitions with high usage (>80%):[0m
+
+[0;31m[WARNING][0m C:/Program Files/Git  854G  417G  438G  49% /
+
+[0;35m========================================[0m
+[0;32m  Largest Directories[0m
+[0;35m========================================[0m
+[1;33mTop 10 largest directories in /home (if accessible):[0m
+

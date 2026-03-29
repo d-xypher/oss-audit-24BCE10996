@@ -1,0 +1,11 @@
+[H[2J[3J
+[0;32m*********************************************[0m
+[0;32m*        FOSS PACKAGE INSPECTOR             *[0m
+[0;32m*        Firefox OSS Audit Project          *[0m
+[0;32m*********************************************[0m
+
+[0;36m========================================[0m
+[0;32m  Detecting Package Manager[0m
+[0;36m========================================[0m
+[0;31m[-][0m No supported package manager found
+This script supports: apt, dnf, pacman, yum

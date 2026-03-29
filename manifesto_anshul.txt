@@ -1,0 +1,15 @@
+--------------------------------------------------
+             MY OPEN SOURCE MANIFESTO             
+--------------------------------------------------
+Date: 29 March 2026
+Author: anshul
+
+I believe the software ecosystem relies on sharing.
+Every day, I rely on tools like linux to learn
+and create. To me, open source is about free will.
+
+In the future, I pledge to build a maybe a software product and
+release it under a free license so that others
+may stand on my shoulders, just as I stand on
+the shoulders of giants.
+--------------------------------------------------
