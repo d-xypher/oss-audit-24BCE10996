@@ -4,9 +4,9 @@
 
 ---
 
-**Student Name:** Devan
+**Student Name:** 
 **Registration Number:** [YOUR REG NUMBER]
-**Course:** B.Tech CSE (AI & ML) - 2nd Year
+**Course:** B.Tech CSE - 2nd Year
 **Date:** March 2026
 
 ---
