@@ -193,7 +193,7 @@ Through this project, I learned:
 
 **Anshul**
 Registration Number: 24BCE10996
-B.Tech CSE (AI & ML) - 2nd Year
+B.Tech CSE Core - 2nd Year
 VIT Bhopal University
 
 ## License
